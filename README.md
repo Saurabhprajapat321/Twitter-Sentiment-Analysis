@@ -27,7 +27,7 @@ Model's Architecture
 
 
 
-      ![1_SICYykT7ybua1gVJDNlajw](https://user-images.githubusercontent.com/102478403/193676278-2fb4cbb5-8f53-4b99-8d3c-311b264fbd4a.png)
+  ![1_SICYykT7ybua1gVJDNlajw](https://user-images.githubusercontent.com/102478403/193676278-2fb4cbb5-8f53-4b99-8d3c-311b264fbd4a.png)
 
  
  Link for dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
