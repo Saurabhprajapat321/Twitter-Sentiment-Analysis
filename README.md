@@ -17,13 +17,17 @@
   3. regex library to remove hyperLinks, mentions etc.
   
   
-  Model Training - LSTM
+ Model Training - LSTM
 We are clear to build our Deep Learning model. While developing a DL model, we should keep in mind of key things like Model Architecture, Hyperparmeter Tuning and Performance of the model.
 
 As you  in the word cloud, the some words are predominantly feature in both Positive and Negative tweets. This could be a problem if we are using a Machine Learning model like Naive Bayes, SVD, etc.. That's why we use Sequence Models.
+
+Model's Architecture 
+
 
 
 
 ![1_SICYykT7ybua1gVJDNlajw](https://user-images.githubusercontent.com/102478403/193676278-2fb4cbb5-8f53-4b99-8d3c-311b264fbd4a.png)
 
  
+ Link for dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
